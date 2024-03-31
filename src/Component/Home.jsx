@@ -1,4 +1,3 @@
-import React from 'react'
 import webp from "../assets/Assets/2.webp"
 import { AiFillGoogleCircle, AiFillAmazonCircle, AiFillYoutube, AiFillInstagram } from "react-icons/ai"
 
